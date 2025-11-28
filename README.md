@@ -13,7 +13,7 @@
 #### Ich lebe in Deutschland seit über 16 Jahren, spreche fließend Deutsch und arbeite darauf hin, ein professioneller Entwickler zu werden. 
 #### Mein Ziel: Remote arbeiten, starke Projekte bauen und meine Zukunft in der digitalen Welt gestalten.
 
-![MyImage](img/austin7v.jpg)
+<img src="img/austin7v.jpg" width="300" alt="MyImage">
 
 ### 📬 Kontakt
 #### Wenn du gemeinsam an Projekten arbeiten möchtest oder Ideen für Kooperationen hast schreib mit gerne! GitHub/Discord/LinedIn
