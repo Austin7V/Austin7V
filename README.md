@@ -7,10 +7,7 @@
 #### -ständig etwas Neues zu lernen <br> -komplexe Dinge einfach zu machen <br> -sinnville digitale Produkte zu entwickeln <br> -Menschen durch Technologie weiterzubringen
 
 ### 🛠️ Technologien & Interessen
-#### -Frontend: HTML/CSS/JavaScript/React/Next.JavaScrip
-#### -Backend: Node.js/MongoDB/REST APIs
-#### -Tools: Git/GitHub/VS Code/Terminal
-#### -Interessen: KI, Automastisierung, No-Code/Low-Code, Full-Stack Development 0-100%
+#### -Frontend: HTML/CSS/JavaScript/React/Next.JavaScrip <br> -Backend: Node.js/MongoDB/REST APIs <br> -Tools: Git/GitHub/VS Code/Terminal <br> -Interessen: KI, Automastisierung, No-Code/Low-Code, Full-Stack Development 0-100%
 
 ### 🌍 Über mich
 #### Ich lebe in Deutschland seit über 16 Jahren, spreche fließend Deutsch und arbeite darauf hin, ein professioneller Entwickler zu werden. 
